@@ -10,3 +10,7 @@ bool areIdentical(struct Node *head1, struct Node *head2)
    }
    return true;
 }
+
+/*Link of the question-----
+https://practice.geeksforgeeks.org/problems/identical-linked-lists/1
+*/

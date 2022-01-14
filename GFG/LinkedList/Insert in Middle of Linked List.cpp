@@ -22,3 +22,7 @@ Node* insertInMiddle(Node* head, int x)
    return head;
 	
 }
+
+/*Link of the question------
+https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1/
+*/
