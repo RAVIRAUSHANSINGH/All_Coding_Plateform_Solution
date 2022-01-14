@@ -22,3 +22,7 @@ class Solution{
        return head;
     }
 };
+
+/* Question link ------
+https://practice.geeksforgeeks.org/problems/linked-list-insertion/1
+*/
