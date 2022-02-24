@@ -20,7 +20,5 @@ class Solution
            //current ptr will move one step at every run of while loop
        }
        return prevptr;
-    }
-    
-    
+    }  
 };
